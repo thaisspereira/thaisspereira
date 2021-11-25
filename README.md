@@ -5,6 +5,11 @@
 - 👷‍♀️ Graduando pedagogia
 - 😄 Pronomes: Ela/Dela
 
+<h4 align ="center"> 
+  <a href = "https://i.imgur.com/c1DNFmi.gif">
+    <img height="300em" src="https://i.imgur.com/c1DNFmi.gif"/>
+    
+
 <h4 align="center">
   <a href="https://github.com/thaisspereira">
   <img height="100em" src="https://github-readme-stats.vercel.app/api?username=thaisspereira&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
