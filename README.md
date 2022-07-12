@@ -1,6 +1,6 @@
 ## Olá, eu sou a Thais 
 
-- 👩‍💻 Desenvolvedora Full-Stack em formação pela Generation Brasil
+- 👩‍💻 Desenvolvedora Full-Stack pela Generation Brasil
 - ☕ Estudando Java
 - 👷‍♀️ Graduando pedagogia
 - 😄 Pronomes: Ela/Dela
